@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">		
+	<link rel="stylesheet" type="text/css" href="css/style.css" />
+	<title>Project - Instagram</title>
+</head>
+<body>
+	<div class="wrapper">
+		<div class="img-phone">
+      	<img src="img/img-instagram.png" alt="phone-instagram">
+		</div>		
+		<div class="session-instagram">
+			<div class="info-login">
+         	<img src="img/img-logo-instagram.png" class="instagram-logo" alt="logo">
+            	<div class="img-profile">
+               	<img src="img/img-perfil-instagram.jpg" alt="profile instagram">
+               </div>
+               <a href="#" class="login">Continue as kshunsui</a>
+               <a href="#" class="logout">Remove Account</a>
+       	</div>
+         <div class="info-login">
+        		<p class="noaccount">Isn't it kshunsui?</p>
+            <p class="noaccount">
+            	<span class="text-blue">Switch Accounts</span> or                   
+               <span class="text-blue">Sign up</span>
+            </p>
+        	</div>
+        	<div class="get-the-app">
+         	<p class="get-app">Get the app</p>
+           	<div class="download">
+            	<a href="#" class="app-download"><img src="img/img-btn-googleplay.png" alt="App Google Play"></a>
+               <a href="#" class="app-download"><img src="img/img-btn-apple.png" alt="App Applestore"></a>
+            </div>
+       	</div>	
+		
+		</div>
+		<!-- /. session-instagram -->
+		
+	
+	
+	
+	
+	
+	
+	</div>
+	<!-- /.warper -->
+</body>
+</html>
