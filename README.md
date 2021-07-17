@@ -1,5 +1,3 @@
-[TOC]
-
 # Projeto: página do Instagram
 
 
